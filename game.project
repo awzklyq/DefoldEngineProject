@@ -2,7 +2,7 @@
 title = MyDesktopProject
 
 [bootstrap]
-main_collection = /main/main.collectionc
+main_collection = /assets/Collection/main.collectionc
 
 [input]
 game_binding = /input/game.input_bindingc

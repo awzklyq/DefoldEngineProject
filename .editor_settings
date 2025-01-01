@@ -1,7 +1,39 @@
 {
   :code {
     :find {
-      :term "on_input"
+      :term "script"
     }
+  }
+  :workflow {
+    :recent-files [
+      [
+        "/game.project"
+        :cljfx-form-view
+      ]
+      [
+        "/main/main.collection"
+        :scene
+      ]
+      [
+        "/main/main.script"
+        :code
+      ]
+      [
+        "/assets/Collection/main.collection"
+        :scene
+      ]
+      [
+        "/script/lyq/log.lua"
+        :code
+      ]
+      [
+        "/assets/Script/main.script"
+        :code
+      ]
+      [
+        "/script/lyq/loadall.lua"
+        :code
+      ]
+    ]
   }
 }
